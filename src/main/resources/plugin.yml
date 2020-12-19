@@ -1,0 +1,6 @@
+name: AntiToolbox
+description: Detect player using Toolbox
+main: lootmc.antitoolbox.AntiToolbox
+api: 1.0.8
+version: "${pom.version}"
+author: LootMC
